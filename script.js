@@ -40,7 +40,7 @@ setTimeout(() => {
                                             setTimeout(() => {
                                                 count = count - 1;
                                                 span.innerHTML = count ; 
-                                                span.innerHTML = "HAPPY BIRTHDAY DAY";
+                                                span.innerHTML = "HAPPY BIRTHDAY DAY CHECHYYY";
                                             },1000);
                                         },1000);
                                     },1000);    
